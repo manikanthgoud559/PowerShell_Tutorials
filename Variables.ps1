@@ -1,4 +1,8 @@
-﻿$variable = $null
+﻿# user define variable
+$var = "this is user define variable"
+
+
+$variable = $null
 $local = $null
 
 function local_variable{
