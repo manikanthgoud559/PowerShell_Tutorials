@@ -1,6 +1,11 @@
 ﻿# user define variable
 $var = "this is user define variable"
 
+# Automatic variable 
+$Pshome ="ntg"
+
+# preference variable
+$MaximumHistoryCount
 
 $variable = $null
 $local = $null
